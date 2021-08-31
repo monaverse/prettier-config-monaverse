@@ -1,15 +1,15 @@
 {
-  "name": "prettier-config-thealexpatin",
+  "name": "prettier-config-monaverse",
   "version": "0.1.1",
-  "description": "Alex Patin's Personal Prettier Config",
+  "description": "The MoNA's Prettier Config",
   "main": "index.js",
   "scripts": {
     "pub": "npm version patch --force && npm publish"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/theAlexPatin/prettier-config-thealexpatin.git"
+    "url": "git+ssh://git@github.com/monaverse/prettier-config-monaverse.git"
   },
-  "author": "Alexander Patin",
+  "author": "Monaverse",
   "license": "MIT"
 }
