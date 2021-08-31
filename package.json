@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-monaverse",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The MoNA's Prettier Config",
   "main": "index.js",
   "scripts": {
